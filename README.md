@@ -1,7 +1,6 @@
-# 301 Reading Notes
-# Table of Contents
+# 301 Reading Notes Table of Contents
 
-## Class Code 201 Notes
+## Intermediate Software Development 
 [Class 01 Reading notes](code-301/class-01.md) <br>
 [Class 02 Reading notes](code-301/class-02.md) <br>
 [Class 03 Reading notes](code-301/class-03.md) <br>
