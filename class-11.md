@@ -5,7 +5,7 @@
 
 What kind of data is a good fit for an SQL database? complex query intensive enviornment<br>
 
-Give a real world example.<br>
+Give a real world example. heavy duty transactional databases<br>
 
 What kind of data is a good fit a NoSQL database? large data sets<br>
 
